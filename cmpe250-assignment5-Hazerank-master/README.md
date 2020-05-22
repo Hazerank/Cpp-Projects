@@ -1,7 +1,6 @@
 # Cmpe 250 Assignment 5
 
-* **Deadline:** 22.12.2019 Sunday @23:00, very strict.
-* For your questions on the project, please contact with your student teaching assistant Ahmet Gedemenli via [afgedemenli@gmail.com](mailto:afgedemenli@gmail.com).
+Student teaching assistant Ahmet Gedemenli via [afgedemenli@gmail.com](mailto:afgedemenli@gmail.com).
 
 ## Description
 
@@ -67,15 +66,4 @@ A large input will be given for you to test your code against time limit.
 ```
 7
 ```
-
-## Submission Policy
-You are supposed to use the Git system provided to you for all projects. No other means of submission will be accepted. Also, pay attention to the following points:
-
-* Your code is expected to produce the correct output in **one second**. Any test case that lasts more than one second will be counted as wrong. 
-* All source codes are checked automatically for similarity with other submissions and exercises from previous years. Make sure you write and submit your own code. Plagiarism and any other forms of cheating will have serious consequences, including getting “-100” as the project score and failing the course.
-* Make sure you document your code with simple inline comments and use meaningful variable names. Do not over-comment, or make your variable names unnecessarily long.
-* If you want to make any changes to your project, you should do it before the submission system closes. Your changes will not be accepted by e-mail. Connectivity problems to the Internet or to GitHub in the last few minutes are not valid excuses for being unable to submit. You should not risk leaving your submission to the last few minutes. After uploading to GitHub, check to make sure that your project appears there.
-* We will test your code with different input combinations, so we recommend you to test your code with different input combinations (written by you) as well.
-* Deadline is 22 December 2019, 23:00. 
-
 **Good Luck and Happy Coding!**
